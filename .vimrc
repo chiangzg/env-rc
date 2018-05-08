@@ -19,7 +19,7 @@ Plugin 'fatih/vim-go'
 "markdown
 Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
-Plugin 'suan/vim-instant-markdown'
+"Plugin 'suan/vim-instant-markdown'
 
 call vundle#end()
 
