@@ -59,6 +59,7 @@ let g:ycm_error_symbol='>>'
 " 警告标识符
 let g:ycm_warning_symbol='>*'
 let g:syntastic_java_checkers = []
+autocmd FileType php set omnifunc=phpcomplete#CompletePHP
 
 " ctags
 let Tlist_Show_One_File=1     "不同时显示多个文件的tag，只显示当前文件的    
