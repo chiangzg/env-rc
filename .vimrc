@@ -4,7 +4,7 @@ set shiftwidth=4
 set nu
 "set nocompatible	"兼容vi
 set laststatus=2	"总是显示窗口状态
-set rtp+=~/.vim/bundle/vundle.vim
+set rtp+=~/.vim/bundle/Vundle.vim
 filetype plugin indent on
 
 call vundle#begin()
